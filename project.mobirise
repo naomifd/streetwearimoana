@@ -160,7 +160,7 @@
           },
           "title": "STREET WEAR IS . . . &nbsp; &nbsp;&nbsp;",
           "text": "This is the online store of imoana streetwear. Here you can find captivating, modern, communicative t-shirts and handmade quality",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a>",
           "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "alias": "colorm/components",
           "_tags": [
